@@ -1,0 +1,109 @@
+.navbar
+{
+    background-color: #1a1e32!important;
+    color: white;
+}
+.head-color
+{
+    background-color: #1a1e32;
+    color: white;
+}
+.stats
+{
+    background-color: #f6f6f6;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.partition
+{
+    padding-top: 100px;
+    padding-bottom: 50px;
+    color:white;
+    padding-left: 200px;
+    
+}
+.partition-inside
+{
+    background-color:rgba(0, 0, 0, 0.5);
+    padding-bottom: 50px;
+    padding-top: 50px;
+    padding-left: 70px;
+    padding-right: 50px;
+}
+.partition-class
+{
+    background-image: url(../images/3.jpg);
+    background-size: cover;
+    position: relative;
+    z-index: 1;
+}
+.words
+{
+    background-image: url(../images/4.jpg);
+    padding-bottom: 170px;
+    color: white;
+}
+.inside-text
+{
+    background-color: black;
+    padding-bottom: 10px;
+}
+.foot
+{
+    background-color: #1a1e32;
+    color: white;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+/* About Us*/
+
+.why-one
+{
+    padding-left: 50px;
+    padding-top: 50px;
+}
+.why-choose-bg
+{
+    background-color: #f7f7f7;
+    padding-bottom: 20px;
+}
+.why-one{
+    background-color: white;
+
+}
+.experts
+{
+    padding-bottom: 50px;
+}
+
+/*Pricing */
+.card-1
+{
+    text-align: center;
+}
+.price1
+{
+    padding-bottom: 50px;
+}
+/*Login*/
+
+.back-img
+{
+    background: url(../images/log3.jpg) no-repeat center;
+    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    -ms-background-size: cover;
+    position: relative;
+    z-index: 0;
+    min-height: 100vh;
+    display: grid;
+    align-items: center;
+    padding: 1.8em 0;
+    opacity: 0.7;
+}
+.btn
+{
+    background-color: #;
+}
